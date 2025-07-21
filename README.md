@@ -51,8 +51,10 @@ Para manter sua posição de destaque e garantir a satisfação contínua de sua
 
 ## 🏆 Resultados Principais
 
-- 📈 **Apresentação:** Análise de política de descontos e avaliações
-- 🎥 **Vídeo:** [🔗 Acessar Vídeo no Loom](https://www.loom.com/share/21805580c8e5482a928f545c7be5d1e7?sid=f50cfae1-d7fb-48cb-99b3-4367a0960f82)
+- 📊 **Apresentação em Google Slides:**  
+  [🔗 Acessar Apresentação](https://docs.google.com/presentation/d/1Wie8ULTQMYLu2eSGeHN-KJK0QDY_zl6h/edit?usp=sharing&ouid=110264823644213357807&rtpof=true&sd=true)
+- 🎥 **Vídeo (Explicação Executiva):**  
+  [🔗 Acessar Vídeo no Loom](https://www.loom.com/share/21805580c8e5482a928f545c7be5d1e7?sid=f50cfae1-d7fb-48cb-99b3-4367a0960f82)
 - 📓 **Notebook Python no Google Colab:**  
   [🔗 Acessar Notebook](https://colab.research.google.com/drive/12mKV7yuE-YkELot7uVofEyQt4MjrTDII?usp=sharing)
 - 🎨 **Figma (Painel Visual):**  
@@ -65,3 +67,4 @@ Para manter sua posição de destaque e garantir a satisfação contínua de sua
 ## 📅 Gestão de Mudança: Registro de Revisões
 
 - **V1 - Submetida em 20/07/2025**
+
